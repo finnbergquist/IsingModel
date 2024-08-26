@@ -6,6 +6,6 @@
 
 ## Other Computational Physics research:
 
-https://github.com/finnbergquist/traffic_model_simulation
+https://github.com/finnbergquist/trafficModelSim
 
 https://github.com/finnbergquist/fluid_dynamic
